@@ -4,7 +4,7 @@ Contains all the lecture materials of Algomaniacs 2026.
 
 Lecture summary:
 
-#Lecture 1 (Square Root Decomposition)
+## Lecture 1 (Square Root Decomposition)
 
 Discussion on Square Root Decomposition and Mo's Algorithm.
 Lecturer : Vaibhav Singh
