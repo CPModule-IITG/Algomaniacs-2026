@@ -27,3 +27,9 @@ Lecture summary:
 * Discussion on understanding and implementing Segment Trees.
 * Lecturer : Shashwat Shukla
 * Topics covered include Segment Tree Construction, Point Updates, Range Queries, Generalization techniques, and Lazy Propagation for range updates.
+
+## Lecture 5 (Tries)
+
+* Discussion on understanding and implementing Tries data structure.
+* Lecturer : Chinmay Kharche
+* Topics covered include basic Trie implementation, Bit Tries, Persistent Tries, string problems, XOR problems, bit manipulation, and complexity analysis.
